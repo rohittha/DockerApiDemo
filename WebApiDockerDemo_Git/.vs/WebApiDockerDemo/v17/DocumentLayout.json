@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC81AC0-FE58-465D-BE73-3A6179EA8E60}|docker-compose.dcproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABC81AC0-FE58-465D-BE73-3A6179EA8E60}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\webapidockerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\webapidockerdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\data\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\data\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|d:\\selfstudy\\docker\\dotnetcore\\coreknowledgesharing\\webapidockerdemo\\webapidockerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01432DFE-C96D-47EE-9EEC-B10B01E1BBE9}|WebApiDockerDemo\\WebApiDockerDemo.csproj|solutionrelative:webapidockerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T08:29:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiDockerDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:23:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiDockerDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:18:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\appsettings.json",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\appsettings.json",
+              "RelativeToolTip": "WebApiDockerDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T08:14:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Dockerfile",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Dockerfile",
+              "RelativeToolTip": "WebApiDockerDemo\\Dockerfile",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T09:25:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAswKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-01T09:25:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Models\\Product.cs",
+              "RelativeToolTip": "WebApiDockerDemo\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:56:22.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlineShopDbContext.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Data\\OnlineShopDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Data\\OnlineShopDbContext.cs",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Data\\OnlineShopDbContext.cs",
+              "RelativeToolTip": "WebApiDockerDemo\\Data\\OnlineShopDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:06:11.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiDockerDemo.csproj",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\WebApiDockerDemo.csproj",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\WebApiDockerDemo.csproj",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\WebApiDockerDemo.csproj",
+              "RelativeToolTip": "WebApiDockerDemo\\WebApiDockerDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T07:58:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDockerDemo\\Program.cs",
+              "ToolTip": "D:\\SELFSTUDY\\Docker\\DotNetCore\\CoreKnowledgeSharing\\WebApiDockerDemo\\WebApiDockerDemo\\Program.cs",
+              "RelativeToolTip": "WebApiDockerDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:15:21.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

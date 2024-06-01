@@ -1,0 +1,16 @@
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\WebApiDockerDemo.deps.json
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\WebApiDockerDemo.runtimeconfig.json
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\appsettings.Development.json
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\appsettings.json
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\WebApiDockerDemo.exe
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\WebApiDockerDemo.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\Microsoft.Identity.Client.dll
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\bin\Debug\WebApiDockerDemo.pdb
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\SELFSTUDY\Docker\DotNetCore\CoreKnowledgeSharing\WebApiDockerDemo\obj\Debug\docker-c.35A3FFBA.Up2Date

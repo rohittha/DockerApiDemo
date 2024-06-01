@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  webapidockerdemo:
+    image: ${DOCKER_REGISTRY-}webapidockerdemo
+    build:
+      context: .
+      dockerfile: webapidockerdemo/Dockerfile
+  SqlServerDb:
+    container_name: MySqlContainer1
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    ports:
+        - 8002:1433
+    environment:
+        - ACCEPT_EULA=Y
+        - MSSQL_SA_PASSWORD=MyPassword@123
+  WebApi:
+        container_name: MyApiContainer1
+        image: ${DOCKER_REGISTRY-}webapidockerdemo
+        ports:
+            - 8001:80
+        build:
+            context: .
+            dockerfile: webapidockerdemo/Dockerfile
+        depends_on:
+                - SqlServerDb
+        
