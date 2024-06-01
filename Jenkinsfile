@@ -1,15 +1,21 @@
 pipeline{
     agent any
     stages{
-        stage("verify tooking"){
-            steps{
-                sh '''
-                    docker version
-                    docker info
-                    docker compose version
-                    curl --version
-                    jq --version
-                '''
+        stage('1 - Build ') {
+            steps {
+                script {
+                    def isUnix = isUnix()
+                    if (isUnix) {
+                        sh 'echo "Running on Unix/Linux environment"'
+                    } else {
+                        bat 'echo "Running on Windows environment. "'
+                        bat 'docker version'
+                        bat 'docker info'
+                        bat 'docker-compose version'
+                        bat 'curl --version'
+                        bat 'echo "verify tooling complete!! "'
+                    }
+                }
             }
         }
         
